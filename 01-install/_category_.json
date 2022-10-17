@@ -1,0 +1,10 @@
+{
+    "position": 2.5,
+    "label": "安装",
+    "collapsible": true,
+    "collapsed": false,
+    "link": {
+      "type": "doc",
+      "id": "intro"
+    }
+  }
