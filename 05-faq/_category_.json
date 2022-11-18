@@ -1,0 +1,10 @@
+{
+    "position": 2.5,
+    "label": "常见问题",
+    "collapsible": true,
+    "collapsed": false,
+    "link": {
+        "type": "doc",
+        "id": "intro"
+    }
+}
