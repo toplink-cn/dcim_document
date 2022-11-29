@@ -21,4 +21,5 @@ https://chn-down.dcim.co/
 ```
 request.image[at]dcim.co
 ```
+(将 [at] 替换成 @)
 :::
