@@ -4,6 +4,10 @@
 :::tip
 该模组为产品模组, 安装完成后请配置 WHMCS 服务器.
 :::
+[⏬ 点击下载 - WHMCS 主模块](https://down.dcim.co/WHMCS-Modules/toplink_dcim/toplink_dcim_v70.zip)
+
+或
+
 ```
 https://down.dcim.co/WHMCS-Modules/toplink_dcim/toplink_dcim_v70.zip
 ```
@@ -14,6 +18,10 @@ https://down.dcim.co/WHMCS-Modules/toplink_dcim/toplink_dcim_v70.zip
 
 该模组为产品模组
 :::
+[⏬ 点击下载 - WHMCS 单流量图模块](https://down.dcim.co/WHMCS-Modules/toplink_dcim/bandwidth/toplink_dcim_bandwidth_v8.zip)
+
+或
+
 ```
 https://down.dcim.co/WHMCS-Modules/toplink_dcim/bandwidth/toplink_dcim_bandwidth_v8.zip
 ```
@@ -24,6 +32,10 @@ https://down.dcim.co/WHMCS-Modules/toplink_dcim/bandwidth/toplink_dcim_bandwidth
 
 该模组为扩展模组
 :::
+[⏬ 点击下载 - WHMCS Webhook 插件](https://down.dcim.co/WHMCS-Modules/toplink_dcim/webhook/toplink_dcim_webhook_v6.zip)
+
+或
+
 ```
 https://down.dcim.co/WHMCS-Modules/toplink_dcim/webhook/toplink_dcim_webhook_v6.zip
 ```
