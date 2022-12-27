@@ -1,22 +1,31 @@
-# VNC反复连接失败
+# VNC 连接报错
 
-点击vnc进行连接,页面会连接时间长，或者是连接上之后页面反复断开，请尝试以下方法进行解决。
+在点击VNC时，可能出现以下报错内容。
 
+![](./image/image1.png)
 
-  -  重制BMC （重制期间会连接不上机器稍等片刻再重新尝试连接）  
-  -  给平台加上SSL证书时链接安全（已有请忽略）  
-  -  升级平台至最新版 （已是最新请忽略）  
-  - Ssh连接被控机器重启docker或重启consoled容器.  
+![](./image/image4.png)
 
+![](./image/image5.png)
 
-重启docker：
-```
-Systemctl restart docker    **or**    service docker restart
-```
-重启consoled 容器 
-```
-docker restart dcim-agent-consoled
-```
+![](./image/image6.png)
+
+![](./image/image7.png)
+
+当出现类似报错时，检查硬件型号的KVM类型是否与实际型号匹配，若KVM类型选择错误则进行修正即可。
+
+如果不确定具体的KVM类型，则可以将KVM类型设置为**自动检测**。
 
 
 
+# VNC 界面提示用户名密码错误
+
+如图所示
+
+![](./image/image2.png)
+
+![](./image/image3.png)
+
+- 检查账号密码是否错误，是否有多余的空格。
+  
+- 如密码有特殊字符，请联系我们检查是否被自动转义。

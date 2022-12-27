@@ -9,14 +9,5 @@
   - Ssh连接被控机器重启docker或重启consoled容器.  
 
 
-重启docker：
-```
-Systemctl restart docker    **or**    service docker restart
-```
-重启consoled 容器 
-```
-docker restart dcim-agent-consoled
-```
-
 
 
